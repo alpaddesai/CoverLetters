@@ -35,11 +35,11 @@ The project provides an overview of Cover Letters, confidential information is n
 ## Sample Cover Letters
 ![image](CoverLetterIX.jpg)
 
-## Certificate
-![image](USCopyrightCertificate.png)
-
 ## Ethics
 ![image](Ethics.jpg)
+
+## Certificate
+![image](USCopyrightCertificate.png)
 
 Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/MedicalDevices.
 
